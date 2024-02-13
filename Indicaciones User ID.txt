@@ -1,0 +1,2 @@
+Los id de usuarios creados en keycloak, los asigné al atributo Customerbill, reescribiendo el valor original de la base de datos SQL, siguiendo el ejemplo que se mostraba en la consigna. 
+En este ejemplo el usuario tenía igual valor de id de usuario que su atributo identificatorio en la factura (customer bill).
